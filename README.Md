@@ -1,2 +1,3 @@
-# dealt-demo
+# Delta-demo
 this is demo for Git &amp; gitup class.
+
